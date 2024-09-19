@@ -1,0 +1,27 @@
+#sidebar {
+    background-color: #242e40;
+    height: 100vh;
+    padding: 20px;
+    position: fixed;
+}
+
+.nav-header{
+    color: white;
+    margin: 30%;
+}
+
+.sidebar-nav{
+    margin-top: 10%;
+}
+
+.sidebar-nav .nav-link {
+    padding: 10px 60px;
+    border: 2px solid white;
+    border-radius: 15px;
+    margin-bottom: 12px;
+    text-wrap: nowrap;
+}
+
+#page-content-wrapper {
+    padding: 20px;
+}

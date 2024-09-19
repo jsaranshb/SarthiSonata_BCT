@@ -1,0 +1,11 @@
+.nav-container {
+    background-color: #242e40;
+    height: 80px;
+    color: white;
+    position: fixed;
+    width: 100%;
+}
+
+.nav-container .navbar-brand {
+    color: white;
+}
